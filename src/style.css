@@ -1,0 +1,11 @@
+body {
+  overflow: hidden;
+}
+
+.hidden {
+  display: none;
+}
+
+.visible {
+  display: block;
+}
