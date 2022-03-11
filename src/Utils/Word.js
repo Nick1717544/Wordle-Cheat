@@ -91,4 +91,4 @@ const word = ["cigar","rebut","sissy","humph","awake","blush","focal","evade","n
 "hello","vaunt","organ","feral","knock","extra","condo","adapt","willy","polka","rayon","skirt","faith","torso","match","mercy","tepid","sleek","riser","twixt","peace","flush","catty","login","eject",
 "roger","rival","untie","refit","aorta","adult","judge","rower","artsy","rural","shave"]
 
-export default { word }
+export { word }
